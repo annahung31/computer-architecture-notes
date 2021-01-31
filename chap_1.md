@@ -1,6 +1,5 @@
-# chap 1
-just a test
-## Chap.1: Introduction
+
+# Chap.1: Introduction
 
 ### ISA\(Instruction set architecture\)
 
